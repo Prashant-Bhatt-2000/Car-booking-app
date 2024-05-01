@@ -147,7 +147,7 @@ http://localhost:4000/api/dealer/{route you want}
 ## Frontend: 
 
 ```bash
-Note: I have build frontend with svelte. Although I have not integrated Apis. As I have earlier there was a shortage of timing and system issue and I have also spend time in designing the frontend. So please excuse me.
+Note: I have build frontend with svelte. Although I have not integrated Apis. As I have already mentioned earlier there was a shortage of timing and system issue and I have also spend time in designing the frontend. So please excuse me.
 ```
 
 ```bash
