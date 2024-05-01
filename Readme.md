@@ -171,6 +171,28 @@ In future I can complete this project.
 10. Dealer Popup form appear by clicking functionality.
 ```
 
+### Pages Path
+
+```bash
+Home page :  http://localhost:5173/
+
+About Page : http://localhost:5173/about
+
+Carbookings Page: http://localhost:5173/carbookings
+
+Dealer Login : http://localhost:5173/dealer/auth/login
+
+Dealer Register : http://localhost:5173/dealer/auth/register
+
+Dealer Inventory : http://localhost:5173/dealer
+
+Admin Login : http://localhost:5173/admin/auth/login
+
+Admin dashboard Page: http://localhost:5173/admin
+
+
+```
+
 ```bash
 THANK YOU FOR PROVIDING ME THIS OPPORTUNITY.
 
