@@ -194,8 +194,6 @@ Admin dashboard Page: http://localhost:5173/admin
 ```
 
 ```bash
-THANK YOU FOR PROVIDING ME THIS OPPORTUNITY.
-
-HOPE MY SKILLS ARE ELIGIBLE FOR THE ROLE. 
+THANK YOU . 
 ```
 
